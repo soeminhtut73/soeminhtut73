@@ -57,7 +57,7 @@
 
 ## 📸 App Screens
 
-<p float="left">
+<p float="left" align="center">
   <img src="images/mahar/login_screen.jpg" width="250" />
   <img src="images/mahar/movie_categories.jpg" width="250" />
 </p>
@@ -75,13 +75,45 @@
 
 ## 📸 App Screens
 
-<p float="left">
+<p float="left" align="center">
   <img src="images/listenup/movie_list.PNG" width="250" />
   <img src="images/listenup/player_controller.PNG" width="250" />
   <img src="images/listenup/trim_controller.PNG" width="250" />
 </p>
 
 **Tech:** `Swift` `UIKit` `Realm` `Combine` `URLSession` `WKWebView` `Laravel` `MySQL` `Digital Ocean`
+
+---
+
+### Uber Clone
+**Learning Project** | 2024
+
+- 🚗 Ride-hailing app built entirely programmatically (no Storyboards)
+- 📍 Real-time driver tracking with MapKit
+- 🗺️ Location services and trip request management
+- 🔐 User authentication with Firebase
+
+<p float="left" align="center">
+  <img src="images/uber/cancel.PNG" width="250" />
+  <img src="images/uber/login_screen.PNG" width="250" />
+  <img src="images/uber/trip_request.PNG" width="250" />
+</p>
+
+**Tech:** `Swift` `Firebase` `MapKit` `Programmatic UI`
+
+---
+
+### BMI-Calculator 
+**Learning Project**
+
+- ⚕️ Based on the user’s weight and height it will calculate their body mass and give a piece of health advice.
+
+<p float="left" align="center">
+  <img src="images/bmi/calculate.PNG" width="250" />
+  <img src="images/bmi/home.PNG" width="250" />
+</p>
+
+**Tech:** `Swift` `Firebase` `MapKit` `Programmatic UI`
 
 ---
 
@@ -97,19 +129,6 @@
 
 ---
 
-### Uber Clone
-**Learning Project** | 2024
-
-- 🚗 Ride-hailing app built entirely programmatically (no Storyboards)
-- 📍 Real-time driver tracking with MapKit
-- 🗺️ Location services and trip request management
-- 🔐 User authentication with Firebase
-
-**Tech:** `Swift` `Firebase` `MapKit` `Programmatic UI`
-
----
-
----
 
 ## 🎓 Education & Certifications
 
@@ -117,19 +136,3 @@
 - 🎓 **B.Sc in Physics** - West Yangon University (2014-2018)
 
 ---
-
-
-<!--
-**soeminhtut73/soeminhtut73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
