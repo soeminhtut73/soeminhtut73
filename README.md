@@ -55,6 +55,13 @@
 - 💳 Integrated 4 payment gateways (Telenor, MPT, Ooredoo, Mytel)
 - 📊 Achieved **10,000+ downloads** on App Store
 
+## 📸 App Screens
+
+<p float="left">
+  <img src="images/mahar/login_screen.jpg" width="250" />
+  <img src="images/mahar/movie_categories.jpg" width="250" />
+</p>
+
 **Tech:** `Swift` `UIKit` `Stroyboard` `Firebase` `Laravel` `Payment Gateway Integration`
 
 ---
@@ -65,6 +72,14 @@
 - 🎵 User able to download and save locally and manage to play on background or convert tone
 - 📥 Custom download manager and pre-built tone with real-time progress tracking
 - 🔄 Reactive UI with Combine framework
+
+## 📸 App Screens
+
+<p float="left">
+  <img src="images/listenup/movie_list.PNG" width="250" />
+  <img src="images/listenup/player_controller.PNG" width="250" />
+  <img src="images/listenup/trim_controller.PNG" width="250" />
+</p>
 
 **Tech:** `Swift` `UIKit` `Realm` `Combine` `URLSession` `WKWebView` `Laravel` `MySQL` `Digital Ocean`
 
