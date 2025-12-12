@@ -94,8 +94,8 @@
 - 🔐 User authentication with Firebase
 
 <p float="left" align="center">
-  <img src="images/uber/cancel.PNG" width="250" />
   <img src="images/uber/login_screen.PNG" width="250" />
+  <img src="images/uber/cancel.PNG" width="250" />
   <img src="images/uber/trip_request.PNG" width="250" />
 </p>
 
@@ -109,7 +109,7 @@
 - ⚕️ Based on the user’s weight and height it will calculate their body mass and give a piece of health advice.
 
 <p float="left" align="center">
-  <img src="images/bmi/calculate.PNG" width="250" />
+  <img src="images/bmi/caculate.PNG" width="250" />
   <img src="images/bmi/home.PNG" width="250" />
 </p>
 
