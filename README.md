@@ -13,9 +13,9 @@
 >I've extensive experience as a **iOS application Developer** since 2021, with proficiency in **Swift, UIKit and SwiftUI, Laravel** for backend development.
 
 ### 💼 Currently
-- 🎶 Working on **ListenUp** - Media & Ringtone Management App
+- 📄 Working on **SnapDoc** - Full-featured document scanner iOS app
 - 🌱 Learning **SwiftUI** and advanced iOS patterns
-- 💡 Exploring **Combine** framework and reactive programming
+- 💡 Exploring **CoreImage** and document processing pipelines
 
 ---
 
@@ -67,7 +67,7 @@
 ---
 
 ### ListenUp - Media & Ringtone App
-**Freelance Project** | Apr 2025 - Present
+**Freelance Project** | Nov 2025 - Feb 2026
 
 - 🎵 User able to download and save locally and manage to play on background or convert tone
 - 📥 Custom download manager and pre-built tone with real-time progress tracking
@@ -82,6 +82,27 @@
 </p>
 
 **Tech:** `Swift` `UIKit` `Realm` `Combine` `URLSession` `WKWebView` `Laravel` `MySQL` `Digital Ocean`
+
+---
+
+### SnapDoc - Document Scanner iOS App
+**Personal Project** | April 2026 - June 2026
+
+- 📄 Built a full-featured document scanner from scratch with camera capture, automatic edge detection, perspective correction, and image-enhancement filters
+- ✏️ Implemented custom PDF annotation system (text, signatures, image stamps) with Core Data persistence
+- 🔐 Added a secure Private folder with passcode + Face ID/Touch ID authentication and Keychain-backed storage with tamper detection
+- 📢 Integrated Google AdMob with a GDPR-compliant consent flow for EEA users via Google's UMP SDK
+- ⚙️ Set up a CI/CD pipeline using Fastlane to automate building, testing, and distributing the app
+
+## 📸 App Screens
+
+<p float="left" align="center">
+  <img src="images/snapdoc/SnapDoc1.jpg" width="250" />
+  <img src="images/snapdoc/SnapDoc2.jpg" width="250" />
+  <img src="images/snapdoc/SnapDoc3.jpg" width="250" />
+</p>
+
+**Tech:** `Swift` `UIKit` `MVVM` `PDFKit` `CoreImage` `CoreData` `Keychain` `Face ID` `Google AdMob` `Fastlane`
 
 ---
 
