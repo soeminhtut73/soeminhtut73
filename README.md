@@ -51,8 +51,9 @@
 ### [Mahar Mobile](https://apps.apple.com/sg/app/mahar-mobile/id1437972773) - Movie Streaming App
 **iOS and Backend Developer** | Feb 2020 - Aug 2022
 
-- 📺 Built full-featured streaming app with offline downloads and multimedia playback
-- 💳 Integrated 4 payment gateways (Telenor, MPT, Ooredoo, Mytel)
+- 🏗️ **What I Built:** Full-featured iOS streaming app with multimedia playback, offline downloads, in-app purchases, and push notifications — shipped end-to-end in Swift and UIKit
+- 🧱 **Architecture:** MVC with a service layer for media playback and download management; Laravel REST API backend with role-based CMS and a log-server admin panel for user retention analytics
+- ⚡ **Challenges:** Integrating 5 payment providers (Telenor, MPT, Ooredoo, Mytel + Apple IAP) into a single unified flow, and achieving stable crash-free session rates monitored via Crashlytics and Xcode Instruments
 - 📊 Achieved **10,000+ downloads** on App Store
 
 ## 📸 App Screens
@@ -88,11 +89,10 @@
 ### SnapDoc - Document Scanner iOS App
 **Personal Project** | April 2026 - June 2026
 
-- 📄 Built a full-featured document scanner from scratch with camera capture, automatic edge detection, perspective correction, and image-enhancement filters
-- ✏️ Implemented custom PDF annotation system (text, signatures, image stamps) with Core Data persistence
-- 🔐 Added a secure Private folder with passcode + Face ID/Touch ID authentication and Keychain-backed storage with tamper detection
-- 📢 Integrated Google AdMob with a GDPR-compliant consent flow for EEA users via Google's UMP SDK
-- ⚙️ Set up a CI/CD pipeline using Fastlane to automate building, testing, and distributing the app
+- 🏗️ **What I Built:** Document scanner iOS app with camera capture, edge detection, perspective correction, and PDF annotation (text, signatures, image stamps)
+- 🧱 **Architecture:** MVVM + UIKit programmatic UI with CoreImage pipeline; Core Data for annotations and Keychain for secure Private folder storage
+- ⚡ **Challenges:** Accurate edge detection from scratch, Face ID/Touch ID tamper-proof private folder, and GDPR-compliant AdMob consent flow for EEA users
+- ⚙️ CI/CD pipeline with Fastlane to automate building, testing, and distribution
 
 ## 📸 App Screens
 
